@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Algunos ejemplos de uso(lambdas)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algunos metodos interesantes de la clase Thread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Comunicacion mediante datagramas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejecutores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduccion a los genericos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduccion a los streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/La interfaz lock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Los hilos en java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Metodos sincronizados" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Objetos inmutables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Operaciones intermedias(streams)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problemas de la sincronizacion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Referencias a metodos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sentencias sincronizadas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trabajar con sockets_ El cliente_" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trabajar con sockets_ El servidor" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
